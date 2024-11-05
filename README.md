@@ -128,8 +128,3 @@ food-good/
 - Cloud infrastructure setup
 - Recipe management core functionality
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-*This project was developed as part of the OSU CS 361 course, demonstrating practical application of software engineering principles, modern web technologies, and mobile app development best practices.*
