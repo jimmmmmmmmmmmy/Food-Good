@@ -2,7 +2,29 @@
 
 # Food Good App 
 
-![Recipe Screens](https://github.com/user-attachments/assets/0d4f3048-c753-4d80-b7b6-555a06f5a6d4)
+<p align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4fe36f1f-c1d1-4842-9d46-fdc91eb30237" width="250" alt="Ingredients Screen"/>
+      <br>
+      <em>Ingredients Management</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9ad450c5-f25b-432f-9ea6-01da91a1936a" width="250" alt="Recipe Screen"/>
+      <br>
+      <em>Recipe Details</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3587a6cb-e39e-46fb-b5cf-f5c6835eecb1" width="250" alt="Home Screen"/>
+      <br>
+      <em>Home Screen</em>
+    </td>
+  </tr>
+</table>
+</p>
+
+
 
 ## Overview
 
