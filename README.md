@@ -24,7 +24,7 @@ Food Good is a React Native mobile application that revolutionizes kitchen manag
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9ad450c5-f25b-432f-9ea6-01da91a1936a" width="250" alt="Recipe Screen"/>
       <br>
-      <em>Recipe Details</em>
+      <em>Recipe Recommendations</em>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3587a6cb-e39e-46fb-b5cf-f5c6835eecb1" width="250" alt="Home Screen"/>
