@@ -36,34 +36,12 @@ Food Good is a React Native mobile application that revolutionizes kitchen manag
 </p>
 
 
-##  Key Features
-
-### Smart Recipe Recommendations
-- Real-time recipe suggestions based on available ingredients
-- Machine learning-powered recipe matching algorithm
-- Customizable dietary preferences and restrictions
-- Time-based meal suggestions (breakfast, lunch, dinner)
-
-### Inventory Management
-- Dual storage tracking (fridge & pantry)
-- Automated inventory updates
-- Expiration date tracking
-- Low stock alerts
-
 ### Recipe Catalog
 - Comprehensive recipe database
 - Step-by-step cooking instructions
 - Ingredient quantity scaling
 - Favorite recipe collection
 - Recipe search and filtering
-
-### Shopping Assistant
-- Smart shopping list generation
-- Missing ingredients identification
-- Quick grocery run suggestions
-- Quantity optimization
-
-##  Technology Stack
 
 ### Frontend
 - React Native (v0.74.3)
@@ -77,54 +55,4 @@ Food Good is a React Native mobile application that revolutionizes kitchen manag
 - AsyncStorage for persistent data
 - React Context API
 
-## Architecture
-
-```
-food-good/
-├── assets/                # Static resources
-│   ├── fonts/
-│   └── images/
-├── components/            # Reusable UI components
-│   ├── common/
-│   └── specific/
-├── screens/              # Main application screens
-├── services/             # Business logic layer
-│   ├── EventBus.ts
-│   └── RecipeRecommendationService.ts
-├── data/                # Data management
-│   ├── types/
-│   └── models/
-├── navigation/          # Navigation configuration
-├── hooks/              # Custom React hooks
-├── utils/              # Helper functions
-└── styles/             # Global styling
-```
-
-## Key Technical Implementations
-
-### Custom Event Bus
-- Implementation of a singleton pattern
-- Type-safe event publishing and subscription
-- Memory leak prevention
-- Efficient state management across components
-
-### Recipe Recommendation Engine
-- Efficient algorithm for ingredient matching
-- Real-time recipe filtering
-- Optimized performance for large recipe datasets
-- Smart caching implementation
-
-### UI/UX Features
-- Smooth animations using React Native Reanimated
-- Responsive design for various screen sizes
-- Custom gesture handling
-- Optimized image loading and caching
-
-## TO DO
-
-- Database schema design
-- Basic API endpoints
-- Authentication system
-- Cloud infrastructure setup
-- Recipe management core functionality
 
